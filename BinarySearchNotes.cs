@@ -70,5 +70,18 @@ namespace Prog_260_W24_L6_BinarySearch_022124
             Console.WriteLine();
         } // End of PrintArray method
 
+        // Test Binary Search
+        //public static void TestBinarySearch()
+        //{
+        //    // Test BinarySearch
+        //    Console.WriteLine("Testing BinarySearch:");
+        //    TestBinarySearch();
+
+        //    // Generate random array
+        //    int[] randomArray = BinarySearchNotes.GenerateRandomArray(10);
+        //    Console.WriteLine("\nGenerated Random Array:");
+        //    BinarySearchNotes.PrintArray(randomArray);
+        //} // End of TestBinarySearch method
+
     } // End of BinarySearchNotes class
 } // End of namespace
